@@ -3,6 +3,8 @@ This project is my first web page.
 
 ![gamze](https://imgyukle.com/f/2022/08/28/nIcHbP.png)
 
+![gamzekoca](https://imgyukle.com/f/2022/08/28/nIgQIp.png)
+
 
 
 # Contents
