@@ -1,9 +1,9 @@
 # Kodluyoruzfirstwebpage
 This project is my first web page.
 
-![gamze](https://imgyukle.com/f/2022/08/28/nIcHbP.png)
+![gamze](./images/webpage1.png)
 
-![gamzekoca](https://imgyukle.com/f/2022/08/28/nIgQIp.png)
+![gamzekoca](./images/webpage2.png)
 
 
 
