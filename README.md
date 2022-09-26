@@ -11,7 +11,7 @@ This project is my first web page.
 ```
 About Me
 My interests
-My Hobies
+My Hobbies
 My Favorite Movies
 My Favorite Series
 ```
